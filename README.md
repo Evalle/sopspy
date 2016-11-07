@@ -1,3 +1,5 @@
+## NOT READY, WIP !!! ### 
+
 ### SopSpy 
 SopSpy (Sopcast Spy) is a simple web scrapper for sopcast links from 
 [livetv](http://www.livetv.sx) website.
